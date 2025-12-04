@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://raw.githubusercontent.com/0xSofi/0xSofi/refs/heads/main/sofi.png" height="300" width="100%" alt="sofi"/>
 
 <div align="left">
