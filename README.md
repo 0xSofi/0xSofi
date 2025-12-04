@@ -6,6 +6,7 @@
 </div>
 <hr/>
 
+## ✦ STACK & TOOLS
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="45" alt="nextjs logo"  />
 
