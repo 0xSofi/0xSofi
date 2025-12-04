@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/0xSofi/0xSofi/refs/heads/main/sofi.png" height="200" width="100%" alt="sofi"/>
+<img src="https://raw.githubusercontent.com/0xSofi/0xSofi/refs/heads/main/sofi.png" height="300" width="100%" alt="sofi"/>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="45" alt="nextjs logo"  />
