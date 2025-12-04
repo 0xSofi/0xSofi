@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/0xSofi/0xSofi/refs/heads/main/sofi.png" height="300" width="100%" alt="sofi"/>
 
+<div align="center">
+  <hr/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=200&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Cyber+Security;OSINT+%7C+Cryptography" alt="Typing SVG" /></a>
+</div>
+<hr/>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="45" alt="nextjs logo"  />
 
